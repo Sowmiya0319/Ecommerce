@@ -1,0 +1,60 @@
+.order_image{
+
+    height:150px;
+    width:150px;
+    margin-top:45px;
+    margin-left: 40px;
+}
+.order_title
+{
+    margin-top:-20%;
+    margin-left:40%;
+    max-width: 60%;
+    font-size: larger;
+    
+}
+
+.pricing
+{
+    margin-top:-8px;
+    margin-left:41%;
+    margin-bottom:90px;
+    
+}
+
+.order_rating
+{
+    margin-top:-2%;
+    margin-left:40%;
+    max-width: 10px;
+       
+}
+
+.order_total
+{
+    margin-top:-5%;
+    margin-left:40%;      
+}.order_id
+{
+    margin-top:-15%;
+    margin-left:70%;
+    max-width: 200px;
+}
+.orders_container
+{
+    background-color:rgb(231, 223, 219);
+    flex-direction: column;
+   margin-right: 25%;
+    max-width:95%;
+    margin-left: 25%;
+}
+.orders_delivered
+{
+    margin-left:40px;
+    margin-bottom:60px;
+    margin-top:10px;
+}
+.body
+{
+    background-color: yellowgreen;
+}

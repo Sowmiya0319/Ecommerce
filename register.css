@@ -1,0 +1,23 @@
+.login_info
+{
+    width:370px;
+    height:450px;
+    border-color: beige;
+    background-color:rgb(255, 255, 255);
+    position:absolute;
+    border-style:solid;
+    border-color: rgb(236, 231, 231);
+    top: 10%;
+    left:30%;
+    border-radius: 10px;
+    
+}
+.button_type1
+{
+    width:270px;
+    height: 25px;
+    border-color: rgb(212, 210, 210);
+    border-style:double;
+    margin-left: 40px;
+   
+}

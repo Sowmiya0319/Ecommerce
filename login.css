@@ -1,0 +1,77 @@
+h1,p1,p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+   position:absolute;
+   left:45%;
+   top:-5%; 
+}
+
+.amazon_logo {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin-left: -10px;
+}
+.login_info
+{
+    width:370px;
+    height:420px;
+    border-color: beige;
+    background-color:rgb(255, 255, 255);
+    position:absolute;
+    border-style:solid;
+    border-color: rgb(236, 231, 231);
+    margin-top: 90%;
+    margin-left:-80%;
+    border-radius: 10px;
+    
+}
+p1
+{
+    margin-left: 40px;
+}
+h1
+{
+  margin-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+}
+.button_type1
+{
+    width:270px;
+    height: 25px;
+    border-color: rgb(212, 210, 210);
+    border-style:double;
+    margin-left: 40px;
+   
+}
+.sign_in_button
+{
+background-color: #fcba03;
+border-radius: 0px;
+width:276px;
+height:30px;
+margin-top: 30px;
+margin-left: 40px;
+border-color: #fcba03;
+margin-bottom: 20px;
+}
+.create_acc_button
+{
+  background-color: rgb(237, 236, 236);
+  width:276px;
+  height:30px;
+  margin-left: 40px;
+  border-color: rgb(237, 236, 236);
+  
+}
+.conditions
+{
+
+margin-left: 40px;
+margin-bottom: 30px;
+}
